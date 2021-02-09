@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 checkout my Note App here 👇👇
-    https://shineprincess.github.io/Note__App/
+ # https://shineprincess.github.io/Note__App/
 
 ## Available Scripts
 
